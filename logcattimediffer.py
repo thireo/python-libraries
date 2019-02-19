@@ -8,8 +8,6 @@ def main(argv):
     parser = argparse.ArgumentParser(description="Does stuff")
     parser.add_argument("-f", "--filename", dest='filename',default= '', required=True,help='filenamo')
     parser.add_argument("-p","--plot", dest="plot",default=False,required=True,help='PLOOTT')
-    #parser.add_argument("-q", "--quiet",action="store_false", dest="verbose", default=True,help="don't print status messages to stdout")
-    #for arg in argv:
     args = parser.parse_args(argv)
     getTimeDiffs(args.filename,args.plot)
 
@@ -22,13 +20,11 @@ def getTimeDiffs(filename,shouldPlot):
             timediffs = []
             times = []
             while line:
-                #print(str(count))
                 splitlines = line.split(' : ')
                 try:
                     date = datetime.strptime(splitlines[0],'%H:%M:%S:%f')
                     times.append(splitlines[0])
                     current_time =calendar.timegm(date.utctimetuple())
-                    #print((current_time-last_time))
                     if(count > 0):
                         timediffs.append((abs((current_time-last_time))))
                     last_time = current_time
