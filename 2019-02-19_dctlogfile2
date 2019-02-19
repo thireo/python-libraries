@@ -1,0 +1,1445 @@
+08:27:33:718 : testMain : onCreate
+08:27:34:801 : BluetoothLeService : Constructor called
+08:27:34:815 : BluetoothLeService : startMyOwnForeground: Starting notification
+08:27:34:867 : BluetoothLeService : reStartScanning: Enter
+08:27:34:883 : BluetoothLeService : reStartScanning: Adapter missing, re-initializing
+08:27:34:897 : BluetoothLeService : Initializing
+08:27:34:924 : BluetoothLeService : init thread: Disable BT adapter
+08:27:34:954 : BluetoothLeService :  State: 12 scanMode: 20
+08:27:34:972 : BluetoothLeService : init thread: BT adapter disabled, re-enable
+08:27:35:875 : PwrSav : closing: java.io.DataOutputStream@439454b
+08:27:35:885 : PwrSav : closing: java.lang.UNIXProcess$ProcessPipeInputStream@2818b28
+08:27:36:998 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:37:049 : BluetoothLeService : Device not found.  Unable to connect.
+08:27:37:070 : BluetoothLeService : reStartScanning: Enter
+08:27:37:093 : BluetoothLeService : init thread: BT adapter disabled, re-enable
+08:27:37:517 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:38:037 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:38:567 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:39:120 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:39:146 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:39:665 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:39:691 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:40:195 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:40:216 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:40:750 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:40:787 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:41:279 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:41:316 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:41:813 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:41:846 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:42:365 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:42:388 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:42:893 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:42:909 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:43:437 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:43:453 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:44:004 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:44:019 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:44:524 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:44:538 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:47:094 : BluetoothLeService : reStartScanning: Enter
+08:27:47:109 : BluetoothLeService : reStartScanning: Adapter missing, re-initializing
+08:27:47:121 : BluetoothLeService : Initializing
+08:27:47:140 : BluetoothLeService : init thread: Disable BT adapter
+08:27:47:211 : BluetoothLeService :  State: 12 scanMode: 20
+08:27:47:238 : BluetoothLeService : init thread: BT adapter disabled, re-enable
+08:27:49:264 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:49:831 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:52:375 : BluetoothLeService : reStartScanning: Enter
+08:27:52:411 : BluetoothLeService : reStartScanning: Adapter missing, re-initializing
+08:27:52:430 : BluetoothLeService : Initializing
+08:27:52:471 : BluetoothLeService : init thread: Disable BT adapter
+08:27:52:491 : BluetoothLeService : Device not found.  Unable to connect.
+08:27:52:556 : BluetoothLeService : reStartScanning: Enter
+08:27:52:618 : BluetoothLeService : init thread: BT adapter disabled, re-enable
+08:27:52:643 : BluetoothLeService : init thread: BT adapter disabled, re-enable
+08:27:54:659 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:54:684 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:55:208 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:55:225 : BluetoothLeService : Wait for BT adapter to enable...
+08:27:57:776 : BluetoothLeService : onScanFailed, error code 3
+08:27:57:788 : BluetoothLeService : reStartScanning: Enter
+08:27:59:822 : BluetoothLeService : onScanFailed, error code 2
+08:27:59:846 : BluetoothLeService : reStartScanning: Enter
+08:28:01:919 : BluetoothLeService : onScanFailed, error code 3
+08:28:01:935 : BluetoothLeService : reStartScanning: Enter
+08:28:04:020 : BluetoothLeService : onScanFailed, error code 2
+08:28:04:034 : BluetoothLeService : reStartScanning: Enter
+08:28:06:108 : BleReceiver : Connection state changed: 0
+08:28:06:121 : BleReceiver : Connection state changed: 0
+08:28:06:135 : BluetoothLeService : reConnectDevice called.
+08:28:06:146 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:06:181 : BluetoothLeService : Trying to create a new connection.
+08:28:06:193 : BluetoothLeService : onScanFailed, error code 1
+08:28:06:209 : BluetoothLeService : reConnectDevice called.
+08:28:06:222 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:06:238 : BluetoothLeService : reStartScanning: Enter
+08:28:06:249 : BluetoothLeService : reStartScanning: Adapter missing, re-initializing
+08:28:06:259 : BluetoothLeService : Initializing
+08:28:06:279 : BluetoothLeService : init thread: Disable BT adapter
+08:28:06:310 : BluetoothLeService :  State: 13 scanMode: 20
+08:28:06:336 : BluetoothLeService : init thread: BT adapter disabled, re-enable
+08:28:08:364 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:08:898 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:11:456 : BluetoothLeService : reStartScanning: Enter
+08:28:11:466 : BluetoothLeService : reStartScanning: Adapter missing, re-initializing
+08:28:11:479 : BluetoothLeService : Initializing
+08:28:11:495 : BluetoothLeService : init thread: Disable BT adapter
+08:28:11:515 : BluetoothLeService :  State: 12 scanMode: 20
+08:28:11:539 : BluetoothLeService : init thread: BT adapter disabled, re-enable
+08:28:13:580 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:14:115 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:16:689 : BluetoothLeService : reStartScanning: Enter
+08:28:16:700 : BluetoothLeService : reStartScanning: Adapter missing, re-initializing
+08:28:16:710 : BluetoothLeService : Initializing
+08:28:16:730 : BluetoothLeService : init thread: Disable BT adapter
+08:28:16:758 : BluetoothLeService :  State: 13 scanMode: 20
+08:28:16:778 : BluetoothLeService : init thread: BT adapter disabled, re-enable
+08:28:18:803 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:19:332 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:21:881 : BluetoothLeService : reStartScanning: Enter
+08:28:21:909 : BluetoothLeService : reStartScanning: Adapter missing, re-initializing
+08:28:21:919 : BluetoothLeService : Initializing
+08:28:21:937 : BluetoothLeService : init thread: Disable BT adapter
+08:28:21:948 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+08:28:21:964 : BluetoothLeService :  State: 13 scanMode: 20
+08:28:21:995 : BluetoothLeService : init thread: BT adapter disabled, re-enable
+08:28:22:011 : BluetoothLeService : Normal execution - on charger
+08:28:26:006 : testMain : onDestroy
+08:28:31:621 : testMain : onCreate
+08:28:32:591 : BluetoothLeService : Constructor called
+08:28:32:604 : BluetoothLeService : startMyOwnForeground: Starting notification
+08:28:32:641 : BluetoothLeService : reStartScanning: Enter
+08:28:32:656 : BluetoothLeService : reStartScanning: Adapter missing, re-initializing
+08:28:32:671 : BluetoothLeService : Initializing
+08:28:32:697 : BluetoothLeService : init thread: Disable BT adapter
+08:28:32:718 : BluetoothLeService : init thread: BT adapter disabled, re-enable
+08:28:33:175 : PwrSav : closing: java.io.DataOutputStream@ac6a80
+08:28:33:187 : PwrSav : closing: java.lang.UNIXProcess$ProcessPipeInputStream@dc88b9
+08:28:34:741 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:35:285 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:35:305 : BluetoothLeService : Device not found.  Unable to connect.
+08:28:35:326 : BluetoothLeService : reStartScanning: Enter
+08:28:35:814 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:36:330 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:36:855 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:37:387 : BluetoothLeService : init thread: BT adapter disabled, re-enable
+08:28:37:409 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:37:938 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:38:479 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:39:009 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:39:414 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:39:537 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:39:937 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:40:062 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:40:460 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:40:586 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:40:984 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:41:118 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:41:513 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:41:639 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:42:035 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:42:162 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:42:576 : BluetoothLeService : Wait for BT adapter to enable...
+08:28:43:852 : BluetoothLeService : Device not found.  Unable to connect.
+08:28:43:874 : BluetoothLeService : reStartScanning: Enter
+08:28:45:912 : BluetoothLeService : reConnectDevice called.
+08:28:45:931 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:45:948 : BluetoothLeService : reConnectDevice called.
+08:28:45:963 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:45:981 : BluetoothLeService : reConnectDevice called.
+08:28:45:994 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:007 : BluetoothLeService : reConnectDevice called.
+08:28:46:018 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:032 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+08:28:46:046 : BluetoothLeService : Normal execution - on charger
+08:28:46:059 : BluetoothLeService : reConnectDevice called.
+08:28:46:070 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:083 : BluetoothLeService : reConnectDevice called.
+08:28:46:094 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:105 : BluetoothLeService : reConnectDevice called.
+08:28:46:117 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:131 : BluetoothLeService : reConnectDevice called.
+08:28:46:142 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:153 : BluetoothLeService : reConnectDevice called.
+08:28:46:164 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:175 : BluetoothLeService : reConnectDevice called.
+08:28:46:187 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:198 : BluetoothLeService : reConnectDevice called.
+08:28:46:210 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:221 : BluetoothLeService : reConnectDevice called.
+08:28:46:232 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:243 : BluetoothLeService : reConnectDevice called.
+08:28:46:254 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:266 : BluetoothLeService : reConnectDevice called.
+08:28:46:275 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:286 : BluetoothLeService : reConnectDevice called.
+08:28:46:296 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:305 : BluetoothLeService : reConnectDevice called.
+08:28:46:317 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:325 : BluetoothLeService : reConnectDevice called.
+08:28:46:333 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:340 : BluetoothLeService : reConnectDevice called.
+08:28:46:346 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:354 : BluetoothLeService : reConnectDevice called.
+08:28:46:362 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:370 : BluetoothLeService : reConnectDevice called.
+08:28:46:379 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:386 : BluetoothLeService : onScanFailed, error code 1
+08:28:46:392 : BluetoothLeService : reConnectDevice called.
+08:28:46:400 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:410 : BluetoothLeService : reConnectDevice called.
+08:28:46:418 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:426 : BluetoothLeService : reConnectDevice called.
+08:28:46:433 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:440 : BluetoothLeService : reConnectDevice called.
+08:28:46:446 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:453 : BluetoothLeService : reConnectDevice called.
+08:28:46:460 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:467 : BluetoothLeService : reConnectDevice called.
+08:28:46:474 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:480 : BluetoothLeService : reConnectDevice called.
+08:28:46:486 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:494 : BluetoothLeService : reConnectDevice called.
+08:28:46:500 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:507 : BluetoothLeService : reConnectDevice called.
+08:28:46:513 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:520 : BluetoothLeService : reConnectDevice called.
+08:28:46:526 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:532 : BluetoothLeService : reConnectDevice called.
+08:28:46:538 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:545 : BluetoothLeService : reConnectDevice called.
+08:28:46:551 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:618 : BluetoothLeService : reConnectDevice called.
+08:28:46:632 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:679 : BluetoothLeService : reConnectDevice called.
+08:28:46:685 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:691 : BluetoothLeService : reConnectDevice called.
+08:28:46:698 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:723 : BluetoothLeService : reConnectDevice called.
+08:28:46:729 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:794 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+08:28:46:804 : BluetoothLeService : Normal execution - on charger
+08:28:46:810 : BluetoothLeService : reConnectDevice called.
+08:28:46:825 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:833 : BluetoothLeService : reConnectDevice called.
+08:28:46:842 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:930 : BluetoothLeService : reConnectDevice called.
+08:28:46:938 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:947 : BluetoothLeService : reConnectDevice called.
+08:28:46:955 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:46:962 : BluetoothLeService : reConnectDevice called.
+08:28:46:968 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:47:137 : BluetoothLeService : reConnectDevice called.
+08:28:47:146 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:47:229 : BluetoothLeService : reConnectDevice called.
+08:28:47:240 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:47:250 : BluetoothLeService : reConnectDevice called.
+08:28:47:256 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:47:353 : BluetoothLeService : reConnectDevice called.
+08:28:47:360 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:47:452 : BluetoothLeService : reConnectDevice called.
+08:28:47:459 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:47:499 : BluetoothLeService : reConnectDevice called.
+08:28:47:506 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:47:514 : BluetoothLeService : reConnectDevice called.
+08:28:47:520 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:47:561 : BluetoothLeService : reConnectDevice called.
+08:28:47:567 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:47:670 : BluetoothLeService : reConnectDevice called.
+08:28:47:678 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:47:762 : BluetoothLeService : reConnectDevice called.
+08:28:47:767 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:47:776 : BluetoothLeService : reConnectDevice called.
+08:28:47:788 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:47:793 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+08:28:47:799 : BluetoothLeService : Normal execution - on charger
+08:28:47:804 : BluetoothLeService : reConnectDevice called.
+08:28:47:809 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:47:880 : BluetoothLeService : reConnectDevice called.
+08:28:47:885 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:47:893 : BluetoothLeService : reConnectDevice called.
+08:28:47:900 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:47:982 : BluetoothLeService : reConnectDevice called.
+08:28:47:987 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:48:034 : BluetoothLeService : reConnectDevice called.
+08:28:48:039 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:48:086 : BluetoothLeService : reConnectDevice called.
+08:28:48:094 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:48:188 : BluetoothLeService : reConnectDevice called.
+08:28:48:202 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:48:296 : BluetoothLeService : reConnectDevice called.
+08:28:48:306 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:48:396 : BluetoothLeService : reConnectDevice called.
+08:28:48:407 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:48:515 : BluetoothLeService : reConnectDevice called.
+08:28:48:524 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:48:579 : BluetoothLeService : reConnectDevice called.
+08:28:48:591 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:48:600 : BluetoothLeService : reConnectDevice called.
+08:28:48:607 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:48:704 : BluetoothLeService : reConnectDevice called.
+08:28:48:712 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:48:788 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+08:28:48:797 : BluetoothLeService : Normal execution - on charger
+08:28:48:807 : BluetoothLeService : reConnectDevice called.
+08:28:48:814 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:48:824 : BluetoothLeService : reConnectDevice called.
+08:28:48:831 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:48:905 : BluetoothLeService : reConnectDevice called.
+08:28:48:915 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:49:010 : BluetoothLeService : reConnectDevice called.
+08:28:49:019 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:49:113 : BluetoothLeService : reConnectDevice called.
+08:28:49:129 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:49:140 : BluetoothLeService : reConnectDevice called.
+08:28:49:147 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:49:154 : BluetoothLeService : reConnectDevice called.
+08:28:49:163 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:49:205 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+08:28:49:213 : BluetoothLeService : Normal execution - on charger
+08:28:49:226 : BluetoothLeService : reConnectDevice called.
+08:28:49:235 : BluetoothLeService : connect called
+08:28:49:264 : BluetoothLeService : Trying to create a new connection.
+08:28:49:280 : BluetoothLeService : reConnectDevice called.
+08:28:49:290 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+08:28:49:301 : BluetoothLeService : Connected to GATT server.
+08:28:49:308 : BluetoothLeService : Attempting to start service discovery:
+08:28:49:316 : BluetoothLeService : Connection state = 2 
+08:28:49:324 : BleReceiver : Connection state changed: 2
+08:28:49:331 : BluetoothLeService : Connected to GATT server.
+08:28:49:337 : BluetoothLeService : Attempting to start service discovery:
+08:28:49:344 : BluetoothLeService : Connection state = 2 
+08:28:49:350 : BleReceiver : Connection state changed: 2
+08:29:48:410 : BluetoothLeService : Disconnected from GATT server. Retry = 1
+08:29:48:447 : BluetoothLeService : connect called
+08:29:48:457 : BluetoothLeService : Trying to use an existing mBluetoothGatt for connection.
+08:29:48:470 : BluetoothLeService : Connection state = 0 
+08:29:48:478 : BleReceiver : Connection state changed: 0
+08:29:49:577 : BluetoothLeService : Connected to GATT server.
+08:29:49:583 : BluetoothLeService : Attempting to start service discovery:
+08:29:49:593 : BluetoothLeService : Connection state = 2 
+08:29:49:600 : BleReceiver : Connection state changed: 2
+08:29:50:239 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e1-2adca0d3208e
+08:29:50:249 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e2-2adca0d3208e
+08:29:50:259 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e3-2adca0d3208e
+08:29:50:268 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e4-2adca0d3208e
+08:29:50:278 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e5-2adca0d3208e
+08:29:50:288 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e6-2adca0d3208e
+08:29:50:378 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e1-2adca0d3208e
+08:29:50:424 : BluetoothLeService : Characteristic notification/indication received: 0x4f 
+08:29:50:430 : BluetoothLeService : SENSOR ALARM STATE REPORT: State = false
+08:29:50:439 : BluetoothLeService : Write to characteristic queue.
+08:29:50:452 : BleReceiver : Alarm received: false
+08:29:50:561 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e2-2adca0d3208e
+08:29:50:606 : BluetoothLeService : Characteristic notification/indication received: 0x6a 
+08:29:50:616 : BleReceiver : Charger Connection state: true
+08:29:50:648 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e3-2adca0d3208e
+08:29:50:695 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:29:50:714 : BluetoothLeService : Last update: 64113222
+08:29:50:723 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:29:50:731 : BleReceiver : Battery Level: 210
+08:29:50:737 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e4-2adca0d3208e
+08:29:50:787 : BluetoothLeService : Characteristic notification/indication received: 0x8e 
+08:29:50:796 : BleReceiver : Error code: 0x8e
+08:29:50:828 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e5-2adca0d3208e
+08:29:50:917 : BluetoothLeService : Characteristic Write success
+08:29:54:161 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:29:54:172 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:29:54:181 : BleReceiver : Battery Level: 210
+08:29:59:111 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:29:59:124 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:29:59:136 : BleReceiver : Battery Level: 210
+08:30:04:107 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:30:04:117 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:30:04:124 : BleReceiver : Battery Level: 209
+08:30:09:102 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:30:09:112 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:30:09:120 : BleReceiver : Battery Level: 210
+08:30:14:094 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:30:14:103 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:30:14:111 : BleReceiver : Battery Level: 209
+08:30:19:136 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:30:19:147 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:30:19:156 : BleReceiver : Battery Level: 210
+08:30:22:644 : BluetoothLeService : Disconnected from GATT server. Retry = 1
+08:30:22:652 : BluetoothLeService : connect called
+08:30:22:659 : BluetoothLeService : Trying to use an existing mBluetoothGatt for connection.
+08:30:22:672 : BluetoothLeService : Connection state = 0 
+08:30:22:686 : BleReceiver : Connection state changed: 0
+08:30:23:847 : BluetoothLeService : Connected to GATT server.
+08:30:23:854 : BluetoothLeService : Attempting to start service discovery:
+08:30:23:862 : BluetoothLeService : Connection state = 2 
+08:30:23:870 : BleReceiver : Connection state changed: 2
+08:30:24:490 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e1-2adca0d3208e
+08:30:24:501 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e2-2adca0d3208e
+08:30:24:511 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e3-2adca0d3208e
+08:30:24:520 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e4-2adca0d3208e
+08:30:24:530 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e5-2adca0d3208e
+08:30:24:539 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e6-2adca0d3208e
+08:30:24:712 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e1-2adca0d3208e
+08:30:24:765 : BluetoothLeService : Characteristic notification/indication received: 0x4f 
+08:30:24:779 : BluetoothLeService : SENSOR ALARM STATE REPORT: State = false
+08:30:24:788 : BleReceiver : Alarm received: false
+08:30:24:850 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e2-2adca0d3208e
+08:30:24:861 : BluetoothLeService : Characteristic notification/indication received: 0x6a 
+08:30:24:867 : BleReceiver : Charger Connection state: true
+08:30:24:984 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e3-2adca0d3208e
+08:30:25:031 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:30:25:043 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:30:25:050 : BleReceiver : Battery Level: 209
+08:30:25:072 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e4-2adca0d3208e
+08:30:25:119 : BluetoothLeService : Characteristic notification/indication received: 0x0 
+08:30:25:129 : BleReceiver : Error code: 0x0
+08:30:25:161 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e5-2adca0d3208e
+08:30:29:126 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:30:29:138 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:30:29:146 : BleReceiver : Battery Level: 210
+08:30:34:121 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:30:34:138 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:30:34:149 : BleReceiver : Battery Level: 210
+08:30:39:161 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:30:39:171 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:30:39:178 : BleReceiver : Battery Level: 209
+08:30:44:111 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:30:44:123 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:30:44:129 : BleReceiver : Battery Level: 210
+08:30:49:106 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:30:49:116 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:30:49:125 : BleReceiver : Battery Level: 210
+08:30:54:104 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:30:54:115 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:30:54:121 : BleReceiver : Battery Level: 209
+08:30:59:096 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:30:59:107 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:30:59:117 : BleReceiver : Battery Level: 209
+08:31:04:136 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:31:04:145 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:31:04:154 : BleReceiver : Battery Level: 210
+08:31:09:131 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:31:09:140 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:31:09:149 : BleReceiver : Battery Level: 210
+08:31:14:171 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:31:14:180 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:31:14:192 : BleReceiver : Battery Level: 210
+08:31:19:127 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:31:19:137 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:31:19:154 : BleReceiver : Battery Level: 210
+08:31:24:114 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:31:24:135 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:31:24:147 : BleReceiver : Battery Level: 210
+08:31:28:046 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:31:28:057 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:31:28:064 : BleReceiver : Battery Level: 209
+08:31:33:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:31:33:062 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:31:33:073 : BleReceiver : Battery Level: 210
+08:31:38:044 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:31:38:052 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:31:38:058 : BleReceiver : Battery Level: 210
+08:31:43:045 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:31:43:070 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:31:43:077 : BleReceiver : Battery Level: 210
+08:31:48:044 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:31:48:051 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:31:48:056 : BleReceiver : Battery Level: 210
+08:31:53:044 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:31:53:051 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:31:53:057 : BleReceiver : Battery Level: 210
+08:31:58:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:31:58:052 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:31:58:058 : BleReceiver : Battery Level: 210
+08:32:03:544 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:32:03:554 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:32:03:560 : BleReceiver : Battery Level: 210
+08:32:08:044 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:32:08:061 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:32:08:078 : BleReceiver : Battery Level: 210
+08:32:13:108 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:32:13:115 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:32:13:121 : BleReceiver : Battery Level: 210
+08:32:18:027 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:32:18:046 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:32:18:055 : BleReceiver : Battery Level: 209
+08:32:23:047 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:32:23:057 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:32:23:066 : BleReceiver : Battery Level: 210
+08:32:24:053 : BluetoothLeService : Characteristic notification/indication received: 0x4f 
+08:32:24:058 : BluetoothLeService : SENSOR ALARM STATE REPORT: State = false
+08:32:24:064 : BleReceiver : Alarm received: false
+08:32:28:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:32:28:050 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:32:28:055 : BleReceiver : Battery Level: 210
+08:32:33:044 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:32:33:052 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:32:33:057 : BleReceiver : Battery Level: 209
+08:32:38:021 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:32:38:038 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:32:38:043 : BleReceiver : Battery Level: 210
+08:32:43:044 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:32:43:053 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:32:43:078 : BleReceiver : Battery Level: 210
+08:32:48:045 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:32:48:052 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:32:48:058 : BleReceiver : Battery Level: 210
+08:32:53:040 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:32:53:059 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:32:53:065 : BleReceiver : Battery Level: 210
+08:32:58:044 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:32:58:058 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:32:58:066 : BleReceiver : Battery Level: 210
+08:33:03:048 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:33:03:055 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:33:03:060 : BleReceiver : Battery Level: 210
+08:33:08:058 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:33:08:066 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:33:08:072 : BleReceiver : Battery Level: 210
+08:33:13:053 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:33:13:060 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:33:13:066 : BleReceiver : Battery Level: 209
+08:33:18:028 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:33:18:037 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:33:18:043 : BleReceiver : Battery Level: 210
+08:33:23:043 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:33:23:051 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:33:23:058 : BleReceiver : Battery Level: 209
+08:33:28:054 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:33:28:065 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:33:28:072 : BleReceiver : Battery Level: 210
+08:33:33:044 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:33:33:065 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:33:33:076 : BleReceiver : Battery Level: 210
+08:33:38:022 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:33:38:033 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:33:38:041 : BleReceiver : Battery Level: 210
+08:33:43:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:33:43:051 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:33:43:057 : BleReceiver : Battery Level: 210
+08:33:48:052 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:33:48:059 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:33:48:065 : BleReceiver : Battery Level: 210
+08:33:53:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:33:53:054 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:33:53:060 : BleReceiver : Battery Level: 210
+08:33:58:044 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:33:58:051 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:33:58:057 : BleReceiver : Battery Level: 210
+08:34:03:054 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:34:03:061 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:34:03:078 : BleReceiver : Battery Level: 210
+08:34:08:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:34:08:053 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:34:08:059 : BleReceiver : Battery Level: 210
+08:34:13:042 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:34:13:059 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:34:13:073 : BleReceiver : Battery Level: 210
+08:34:18:043 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:34:18:050 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:34:18:056 : BleReceiver : Battery Level: 209
+08:34:23:045 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:34:23:052 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:34:23:057 : BleReceiver : Battery Level: 209
+08:34:24:047 : BluetoothLeService : Characteristic notification/indication received: 0x4f 
+08:34:24:071 : BluetoothLeService : SENSOR ALARM STATE REPORT: State = false
+08:34:24:081 : BleReceiver : Alarm received: false
+08:34:28:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:34:28:061 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:34:28:076 : BleReceiver : Battery Level: 210
+08:34:33:044 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:34:33:065 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:34:33:078 : BleReceiver : Battery Level: 209
+08:34:38:047 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:34:38:053 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:34:38:059 : BleReceiver : Battery Level: 210
+08:34:43:052 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:34:43:058 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:34:43:064 : BleReceiver : Battery Level: 210
+08:34:48:042 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:34:48:060 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:34:48:068 : BleReceiver : Battery Level: 210
+08:34:53:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:34:53:050 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:34:53:056 : BleReceiver : Battery Level: 210
+08:34:58:079 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:34:58:087 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:34:58:094 : BleReceiver : Battery Level: 210
+08:35:03:045 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:35:03:066 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:35:03:072 : BleReceiver : Battery Level: 210
+08:35:08:020 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:35:08:028 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:35:08:034 : BleReceiver : Battery Level: 210
+08:35:13:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:35:13:062 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:35:13:075 : BleReceiver : Battery Level: 210
+08:35:18:043 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:35:18:051 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:35:18:060 : BleReceiver : Battery Level: 209
+08:35:23:052 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:35:23:058 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:35:23:064 : BleReceiver : Battery Level: 210
+08:35:28:020 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:35:28:027 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:35:28:033 : BleReceiver : Battery Level: 209
+08:35:33:049 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:35:33:054 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:35:33:060 : BleReceiver : Battery Level: 210
+08:35:38:042 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:35:38:050 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:35:38:056 : BleReceiver : Battery Level: 210
+08:35:43:047 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:35:43:053 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:35:43:059 : BleReceiver : Battery Level: 210
+08:35:48:044 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:35:48:049 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:35:48:055 : BleReceiver : Battery Level: 210
+08:35:53:054 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:35:53:070 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:35:53:076 : BleReceiver : Battery Level: 210
+08:35:58:044 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:35:58:068 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:35:58:078 : BleReceiver : Battery Level: 210
+08:36:03:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:36:03:073 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:36:03:085 : BleReceiver : Battery Level: 210
+08:36:08:044 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:36:08:055 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:36:08:061 : BleReceiver : Battery Level: 210
+08:36:13:052 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:36:13:058 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:36:13:064 : BleReceiver : Battery Level: 210
+08:36:18:044 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:36:18:060 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:36:18:075 : BleReceiver : Battery Level: 210
+08:36:23:044 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:36:23:057 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:36:23:063 : BleReceiver : Battery Level: 210
+08:36:24:043 : BluetoothLeService : Characteristic notification/indication received: 0x4f 
+08:36:24:049 : BluetoothLeService : SENSOR ALARM STATE REPORT: State = false
+08:36:24:055 : BleReceiver : Alarm received: false
+08:36:28:042 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:36:28:061 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:36:28:074 : BleReceiver : Battery Level: 209
+08:36:33:071 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:36:33:086 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:36:33:099 : BleReceiver : Battery Level: 210
+08:36:38:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:36:38:065 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:36:38:077 : BleReceiver : Battery Level: 210
+08:36:43:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:36:43:051 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:36:43:057 : BleReceiver : Battery Level: 210
+08:36:48:054 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:36:48:066 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:36:48:072 : BleReceiver : Battery Level: 210
+08:36:53:044 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:36:53:052 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:36:53:058 : BleReceiver : Battery Level: 210
+08:36:58:046 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:36:58:052 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:36:58:058 : BleReceiver : Battery Level: 210
+08:37:03:019 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:37:03:027 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:37:03:033 : BleReceiver : Battery Level: 210
+08:37:08:042 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:37:08:058 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:37:08:071 : BleReceiver : Battery Level: 210
+08:37:13:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:37:13:050 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:37:13:055 : BleReceiver : Battery Level: 210
+08:37:18:543 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:37:18:550 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:37:18:557 : BleReceiver : Battery Level: 210
+08:37:23:046 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:37:23:064 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:37:23:079 : BleReceiver : Battery Level: 210
+08:37:28:055 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:37:28:069 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:37:28:074 : BleReceiver : Battery Level: 210
+08:37:33:019 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:37:33:026 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:37:33:032 : BleReceiver : Battery Level: 210
+08:37:38:046 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:37:38:073 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:37:38:083 : BleReceiver : Battery Level: 209
+08:37:43:020 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:37:43:028 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:37:43:034 : BleReceiver : Battery Level: 210
+08:37:48:020 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:37:48:027 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:37:48:034 : BleReceiver : Battery Level: 209
+08:37:53:049 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:37:53:077 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:37:53:085 : BleReceiver : Battery Level: 210
+08:37:58:049 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:37:58:055 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:37:58:061 : BleReceiver : Battery Level: 210
+08:38:03:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:38:03:059 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:38:03:068 : BleReceiver : Battery Level: 210
+08:38:08:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:38:08:061 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:38:08:076 : BleReceiver : Battery Level: 210
+08:38:13:048 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:38:13:054 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:38:13:059 : BleReceiver : Battery Level: 210
+08:38:18:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:38:18:049 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:38:18:055 : BleReceiver : Battery Level: 210
+08:38:23:042 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:38:23:048 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:38:23:055 : BleReceiver : Battery Level: 210
+08:38:24:045 : BluetoothLeService : Characteristic notification/indication received: 0x4f 
+08:38:24:050 : BluetoothLeService : SENSOR ALARM STATE REPORT: State = false
+08:38:24:055 : BleReceiver : Alarm received: false
+08:38:28:047 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:38:28:053 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:38:28:058 : BleReceiver : Battery Level: 210
+08:38:33:042 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:38:33:050 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:38:33:055 : BleReceiver : Battery Level: 210
+08:38:38:041 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:38:38:053 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:38:38:062 : BleReceiver : Battery Level: 210
+08:38:43:041 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:38:43:047 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:38:43:062 : BleReceiver : Battery Level: 210
+08:38:48:052 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:38:48:058 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:38:48:064 : BleReceiver : Battery Level: 210
+08:38:53:020 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:38:53:026 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:38:53:032 : BleReceiver : Battery Level: 210
+08:38:58:045 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:38:58:050 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:38:58:056 : BleReceiver : Battery Level: 210
+08:39:03:022 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:39:03:034 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:39:03:041 : BleReceiver : Battery Level: 210
+08:39:08:046 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:39:08:052 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:39:08:059 : BleReceiver : Battery Level: 210
+08:39:13:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:39:13:050 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:39:13:055 : BleReceiver : Battery Level: 210
+08:39:18:366 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:39:18:384 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:39:18:398 : BleReceiver : Battery Level: 209
+08:39:23:042 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:39:23:050 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:39:23:055 : BleReceiver : Battery Level: 210
+08:39:28:020 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:39:28:027 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:39:28:033 : BleReceiver : Battery Level: 210
+08:39:33:020 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:39:33:026 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:39:33:032 : BleReceiver : Battery Level: 210
+08:39:38:022 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:39:38:035 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:39:38:040 : BleReceiver : Battery Level: 210
+08:39:43:048 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:39:43:055 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:39:43:061 : BleReceiver : Battery Level: 210
+08:39:48:045 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:39:48:055 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:39:48:060 : BleReceiver : Battery Level: 210
+08:39:53:048 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:39:53:054 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:39:53:059 : BleReceiver : Battery Level: 209
+08:39:58:047 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:39:58:053 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:39:58:058 : BleReceiver : Battery Level: 210
+08:40:03:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:40:03:050 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:40:03:055 : BleReceiver : Battery Level: 210
+08:40:08:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:40:08:060 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:40:08:075 : BleReceiver : Battery Level: 210
+08:40:13:022 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:40:13:033 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:40:13:040 : BleReceiver : Battery Level: 210
+08:40:18:042 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:40:18:059 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:40:18:069 : BleReceiver : Battery Level: 210
+08:40:23:044 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:40:23:050 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:40:23:054 : BleReceiver : Battery Level: 210
+08:40:24:053 : BluetoothLeService : Characteristic notification/indication received: 0x4f 
+08:40:24:063 : BluetoothLeService : SENSOR ALARM STATE REPORT: State = false
+08:40:24:070 : BleReceiver : Alarm received: false
+08:40:28:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:40:28:049 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:40:28:075 : BleReceiver : Battery Level: 210
+08:40:33:023 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:40:33:035 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:40:33:045 : BleReceiver : Battery Level: 210
+08:40:38:043 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:40:38:061 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:40:38:071 : BleReceiver : Battery Level: 210
+08:40:43:026 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:40:43:041 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:40:43:047 : BleReceiver : Battery Level: 209
+08:40:48:567 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:40:48:578 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:40:48:585 : BleReceiver : Battery Level: 210
+08:40:53:425 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:40:53:429 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:40:53:433 : BleReceiver : Battery Level: 210
+08:40:58:380 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:40:58:392 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:40:58:399 : BleReceiver : Battery Level: 210
+08:41:03:375 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:41:03:383 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:41:03:390 : BleReceiver : Battery Level: 210
+08:41:08:369 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:41:08:379 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:41:08:387 : BleReceiver : Battery Level: 210
+08:41:13:364 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:41:13:373 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:41:13:380 : BleReceiver : Battery Level: 209
+08:41:18:360 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:41:18:368 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:41:18:376 : BleReceiver : Battery Level: 210
+08:41:23:445 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:41:23:452 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:41:23:458 : BleReceiver : Battery Level: 210
+08:41:28:439 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:41:28:450 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:41:28:457 : BleReceiver : Battery Level: 210
+08:41:33:435 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:41:33:443 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:41:33:450 : BleReceiver : Battery Level: 210
+08:41:38:429 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:41:38:437 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:41:38:445 : BleReceiver : Battery Level: 210
+08:41:43:424 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:41:43:439 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:41:43:445 : BleReceiver : Battery Level: 210
+08:41:48:510 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:41:48:523 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:41:48:537 : BleReceiver : Battery Level: 209
+08:41:53:414 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:41:53:422 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:41:53:429 : BleReceiver : Battery Level: 210
+08:41:58:409 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:41:58:417 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:41:58:425 : BleReceiver : Battery Level: 210
+08:42:03:404 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:42:03:412 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:42:03:420 : BleReceiver : Battery Level: 210
+08:42:08:399 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:42:08:407 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:42:08:414 : BleReceiver : Battery Level: 210
+08:42:13:439 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:42:13:447 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:42:13:454 : BleReceiver : Battery Level: 210
+08:42:18:391 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:42:18:399 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:42:18:408 : BleReceiver : Battery Level: 210
+08:42:23:385 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:42:23:393 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:42:23:400 : BleReceiver : Battery Level: 210
+08:42:24:104 : BluetoothLeService : Characteristic notification/indication received: 0x4f 
+08:42:24:111 : BluetoothLeService : SENSOR ALARM STATE REPORT: State = false
+08:42:24:118 : BleReceiver : Alarm received: false
+08:42:28:380 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:42:28:388 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:42:28:397 : BleReceiver : Battery Level: 210
+08:42:33:374 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:42:33:382 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:42:33:390 : BleReceiver : Battery Level: 210
+08:42:38:414 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:42:38:422 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:42:38:430 : BleReceiver : Battery Level: 210
+08:42:43:364 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:42:43:372 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:42:43:380 : BleReceiver : Battery Level: 210
+08:42:48:404 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:42:48:412 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:42:48:419 : BleReceiver : Battery Level: 209
+08:42:53:400 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:42:53:408 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:42:53:415 : BleReceiver : Battery Level: 209
+08:42:58:395 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:42:58:403 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:42:58:411 : BleReceiver : Battery Level: 210
+08:43:03:390 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:43:03:398 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:43:03:407 : BleReceiver : Battery Level: 210
+08:43:08:565 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:43:08:573 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:43:08:581 : BleReceiver : Battery Level: 210
+08:43:13:379 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:43:13:387 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:43:13:395 : BleReceiver : Battery Level: 209
+08:43:18:372 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:43:18:378 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:43:18:383 : BleReceiver : Battery Level: 210
+08:54:48:536 : BluetoothLeService : Trying to use an existing mBluetoothGatt for connection.
+08:54:48:577 : BluetoothLeService : Trying to create a new connection.
+08:54:48:591 : BluetoothLeService : Connected to GATT server.
+08:54:48:597 : BluetoothLeService : Attempting to start service discovery:
+08:54:48:607 : BluetoothLeService : Connection state = 2 
+08:54:48:612 : BleReceiver : Connection state changed: 2
+08:54:48:616 : BluetoothLeService : Connected to GATT server.
+08:54:48:622 : BluetoothLeService : Attempting to start service discovery:
+08:54:48:628 : BluetoothLeService : Connection state = 2 
+08:54:48:632 : BleReceiver : Connection state changed: 2
+08:54:50:217 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e1-2adca0d3208e
+08:54:50:225 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e2-2adca0d3208e
+08:54:50:234 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e3-2adca0d3208e
+08:54:50:241 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e4-2adca0d3208e
+08:54:50:247 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e5-2adca0d3208e
+08:54:50:254 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e6-2adca0d3208e
+08:54:50:321 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e1-2adca0d3208e
+08:54:50:365 : BluetoothLeService : Characteristic notification/indication received: 0x4f 
+08:54:50:370 : BluetoothLeService : SENSOR ALARM STATE REPORT: State = false
+08:54:50:376 : BluetoothLeService : Write to characteristic queue.
+08:54:50:382 : BleReceiver : Alarm received: false
+08:54:50:409 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e2-2adca0d3208e
+08:54:50:459 : BluetoothLeService : Characteristic notification/indication received: 0x6a 
+08:54:50:465 : BleReceiver : Charger Connection state: true
+08:54:50:499 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e3-2adca0d3208e
+08:54:50:638 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:54:50:645 : BluetoothLeService : Last update: 692268
+08:54:50:653 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:54:50:661 : BleReceiver : Battery Level: 210
+08:54:50:725 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e4-2adca0d3208e
+08:54:50:823 : BluetoothLeService : Characteristic notification/indication received: 0x0 
+08:54:50:834 : BleReceiver : Error code: 0x0
+08:54:50:860 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e5-2adca0d3208e
+08:54:51:052 : BluetoothLeService : Characteristic Write success
+08:54:53:382 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:54:53:391 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:54:53:399 : BleReceiver : Battery Level: 210
+08:54:58:377 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:54:58:385 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:54:58:392 : BleReceiver : Battery Level: 209
+08:55:03:372 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:55:03:380 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:55:03:389 : BleReceiver : Battery Level: 210
+08:55:08:368 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:55:08:376 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:55:08:383 : BleReceiver : Battery Level: 210
+08:55:13:453 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:55:13:464 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:55:13:470 : BleReceiver : Battery Level: 209
+08:55:18:402 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:55:18:410 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:55:18:418 : BleReceiver : Battery Level: 210
+08:55:22:451 : BluetoothLeService : Disconnected from GATT server. Retry = 1
+08:55:22:457 : BluetoothLeService : connect called
+08:55:22:467 : BluetoothLeService : Trying to use an existing mBluetoothGatt for connection.
+08:55:22:488 : BluetoothLeService : Connection state = 0 
+08:55:22:496 : BleReceiver : Connection state changed: 0
+08:55:23:776 : BluetoothLeService : Connected to GATT server.
+08:55:23:783 : BluetoothLeService : Attempting to start service discovery:
+08:55:23:793 : BluetoothLeService : Connection state = 2 
+08:55:23:799 : BleReceiver : Connection state changed: 2
+08:55:24:533 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e1-2adca0d3208e
+08:55:24:546 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e2-2adca0d3208e
+08:55:24:555 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e3-2adca0d3208e
+08:55:24:567 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e4-2adca0d3208e
+08:55:24:576 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e5-2adca0d3208e
+08:55:24:583 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e6-2adca0d3208e
+08:55:24:747 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e1-2adca0d3208e
+08:55:24:761 : BluetoothLeService : Characteristic notification/indication received: 0x4f 
+08:55:24:766 : BluetoothLeService : SENSOR ALARM STATE REPORT: State = false
+08:55:24:773 : BleReceiver : Alarm received: false
+08:55:24:972 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e2-2adca0d3208e
+08:55:24:985 : BluetoothLeService : Characteristic notification/indication received: 0x6a 
+08:55:24:992 : BleReceiver : Charger Connection state: true
+08:55:25:059 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e3-2adca0d3208e
+08:55:25:108 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:55:25:116 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:55:25:123 : BleReceiver : Battery Level: 209
+08:55:25:150 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e4-2adca0d3208e
+08:55:25:197 : BluetoothLeService : Characteristic notification/indication received: 0x0 
+08:55:25:204 : BleReceiver : Error code: 0x0
+08:55:25:288 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e5-2adca0d3208e
+08:55:28:393 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:55:28:401 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:55:28:407 : BleReceiver : Battery Level: 209
+08:55:33:388 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:55:33:395 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:55:33:405 : BleReceiver : Battery Level: 210
+08:55:38:391 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:55:38:426 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:55:38:435 : BleReceiver : Battery Level: 210
+08:55:43:378 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:55:43:386 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:55:43:392 : BleReceiver : Battery Level: 210
+08:55:48:418 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:55:48:426 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:55:48:433 : BleReceiver : Battery Level: 210
+08:55:53:368 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:55:53:382 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:55:53:391 : BleReceiver : Battery Level: 210
+08:55:56:825 : BluetoothLeService : Disconnected from GATT server. Retry = 1
+08:55:56:840 : BluetoothLeService : connect called
+08:55:56:846 : BluetoothLeService : Trying to use an existing mBluetoothGatt for connection.
+08:55:56:854 : BluetoothLeService : Connection state = 0 
+08:55:56:862 : BleReceiver : Connection state changed: 0
+08:55:59:056 : BluetoothLeService : Connected to GATT server.
+08:55:59:062 : BluetoothLeService : Attempting to start service discovery:
+08:55:59:072 : BluetoothLeService : Connection state = 2 
+08:55:59:078 : BleReceiver : Connection state changed: 2
+08:55:59:788 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e1-2adca0d3208e
+08:55:59:798 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e2-2adca0d3208e
+08:55:59:805 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e3-2adca0d3208e
+08:55:59:812 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e4-2adca0d3208e
+08:55:59:819 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e5-2adca0d3208e
+08:55:59:826 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e6-2adca0d3208e
+08:55:59:981 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e1-2adca0d3208e
+08:55:59:991 : BluetoothLeService : Characteristic notification/indication received: 0x4f 
+08:55:59:997 : BluetoothLeService : SENSOR ALARM STATE REPORT: State = false
+08:56:00:003 : BleReceiver : Alarm received: false
+08:56:00:068 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e2-2adca0d3208e
+08:56:00:117 : BluetoothLeService : Characteristic notification/indication received: 0x6a 
+08:56:00:125 : BleReceiver : Charger Connection state: true
+08:56:00:205 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e3-2adca0d3208e
+08:56:00:252 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:56:00:260 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:56:00:267 : BleReceiver : Battery Level: 210
+08:56:00:295 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e4-2adca0d3208e
+08:56:00:342 : BluetoothLeService : Characteristic notification/indication received: 0x0 
+08:56:00:351 : BleReceiver : Error code: 0x0
+08:56:00:385 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e5-2adca0d3208e
+08:56:03:448 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:56:03:455 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:56:03:462 : BleReceiver : Battery Level: 210
+08:56:08:488 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:56:08:495 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:56:08:504 : BleReceiver : Battery Level: 210
+08:56:13:393 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:56:13:400 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:56:13:407 : BleReceiver : Battery Level: 209
+08:56:18:433 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:56:18:440 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:56:18:447 : BleReceiver : Battery Level: 210
+08:56:23:382 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:56:23:390 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:56:23:397 : BleReceiver : Battery Level: 209
+08:56:28:423 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:56:28:431 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:56:28:437 : BleReceiver : Battery Level: 209
+08:56:32:087 : BluetoothLeService : Disconnected from GATT server. Retry = 1
+08:56:32:110 : BluetoothLeService : connect called
+08:56:32:116 : BluetoothLeService : Trying to use an existing mBluetoothGatt for connection.
+08:56:32:143 : BluetoothLeService : Connection state = 0 
+08:56:32:152 : BleReceiver : Connection state changed: 0
+08:56:33:302 : BluetoothLeService : Connected to GATT server.
+08:56:33:308 : BluetoothLeService : Attempting to start service discovery:
+08:56:33:319 : BluetoothLeService : Connection state = 2 
+08:56:33:324 : BleReceiver : Connection state changed: 2
+08:56:33:937 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e1-2adca0d3208e
+08:56:33:944 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e2-2adca0d3208e
+08:56:33:953 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e3-2adca0d3208e
+08:56:33:961 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e4-2adca0d3208e
+08:56:33:968 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e5-2adca0d3208e
+08:56:33:974 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e6-2adca0d3208e
+08:56:34:044 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e1-2adca0d3208e
+08:56:34:091 : BluetoothLeService : Characteristic notification/indication received: 0x4f 
+08:56:34:096 : BluetoothLeService : SENSOR ALARM STATE REPORT: State = false
+08:56:34:102 : BleReceiver : Alarm received: false
+08:56:34:134 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e2-2adca0d3208e
+08:56:34:181 : BluetoothLeService : Characteristic notification/indication received: 0x6a 
+08:56:34:186 : BleReceiver : Charger Connection state: true
+08:56:34:225 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e3-2adca0d3208e
+08:56:34:318 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:56:34:325 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:56:34:333 : BleReceiver : Battery Level: 210
+08:56:34:339 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e4-2adca0d3208e
+08:56:34:404 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e5-2adca0d3208e
+08:56:34:453 : BluetoothLeService : Characteristic notification/indication received: 0x0 
+08:56:34:461 : BleReceiver : Error code: 0x0
+08:56:38:412 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:56:38:418 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:56:38:423 : BleReceiver : Battery Level: 210
+08:56:43:410 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:56:43:418 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:56:43:425 : BleReceiver : Battery Level: 210
+08:56:48:400 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:56:48:405 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:56:48:409 : BleReceiver : Battery Level: 209
+08:56:53:400 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:56:53:408 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:56:53:414 : BleReceiver : Battery Level: 209
+08:56:58:393 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:56:58:401 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:56:58:408 : BleReceiver : Battery Level: 209
+08:57:03:386 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:57:03:390 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:57:03:394 : BleReceiver : Battery Level: 210
+08:57:08:383 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:57:08:391 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:57:08:398 : BleReceiver : Battery Level: 209
+08:57:13:423 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:57:13:435 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:57:13:443 : BleReceiver : Battery Level: 210
+08:57:18:418 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:57:18:426 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:57:18:433 : BleReceiver : Battery Level: 209
+08:57:23:369 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:57:23:383 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:57:23:388 : BleReceiver : Battery Level: 210
+08:57:28:408 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:57:28:415 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:57:28:422 : BleReceiver : Battery Level: 210
+08:57:33:403 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:57:33:411 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:57:33:417 : BleReceiver : Battery Level: 209
+08:57:38:398 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:57:38:405 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:57:38:413 : BleReceiver : Battery Level: 210
+08:57:43:393 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:57:43:400 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:57:43:407 : BleReceiver : Battery Level: 210
+08:57:48:433 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:57:48:441 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:57:48:448 : BleReceiver : Battery Level: 210
+08:57:53:427 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+08:57:53:435 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+08:57:53:442 : BleReceiver : Battery Level: 209
+08:57:58:422 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:57:58:430 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:57:58:437 : BleReceiver : Battery Level: 210
+08:58:03:372 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:58:03:380 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:58:03:387 : BleReceiver : Battery Level: 210
+08:58:08:367 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:58:08:375 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:58:08:382 : BleReceiver : Battery Level: 210
+08:58:13:408 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:58:13:415 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:58:13:422 : BleReceiver : Battery Level: 210
+08:58:18:448 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:58:18:462 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:58:18:469 : BleReceiver : Battery Level: 210
+08:58:23:398 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:58:23:405 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:58:23:413 : BleReceiver : Battery Level: 210
+08:58:28:393 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:58:28:400 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:58:28:407 : BleReceiver : Battery Level: 210
+08:58:33:389 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:58:33:397 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:58:33:404 : BleReceiver : Battery Level: 210
+08:58:34:108 : BluetoothLeService : Characteristic notification/indication received: 0x4f 
+08:58:34:114 : BluetoothLeService : SENSOR ALARM STATE REPORT: State = false
+08:58:34:121 : BleReceiver : Alarm received: false
+08:58:38:428 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:58:38:435 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:58:38:442 : BleReceiver : Battery Level: 210
+08:58:43:377 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:58:43:385 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:58:43:395 : BleReceiver : Battery Level: 210
+08:58:48:553 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:58:48:568 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:58:48:581 : BleReceiver : Battery Level: 210
+08:58:53:367 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:58:53:375 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:58:53:382 : BleReceiver : Battery Level: 210
+08:58:58:453 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:58:58:461 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:58:58:468 : BleReceiver : Battery Level: 210
+08:59:03:402 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:59:03:410 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:59:03:417 : BleReceiver : Battery Level: 210
+08:59:08:443 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:59:08:450 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:59:08:457 : BleReceiver : Battery Level: 210
+08:59:13:392 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:59:13:400 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:59:13:407 : BleReceiver : Battery Level: 210
+08:59:18:433 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+08:59:18:441 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+08:59:18:447 : BleReceiver : Battery Level: 210
+08:59:21:794 : BluetoothLeService : reStartScanning: Enter
+08:59:21:805 : BluetoothLeService : reStartScanning: Adapter missing, re-initializing
+08:59:21:812 : BluetoothLeService : Initializing
+08:59:21:823 : BluetoothLeService : init thread: Disable BT adapter
+08:59:21:860 : BluetoothLeService :  State: 12 scanMode: 20
+08:59:21:877 : BleReceiver : Connection state changed: 0
+08:59:21:901 : BluetoothLeService : init thread: BT adapter disabled, re-enable
+08:59:23:919 : BluetoothLeService : Wait for BT adapter to enable...
+08:59:24:427 : BluetoothLeService : Wait for BT adapter to enable...
+08:59:27:047 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+08:59:27:052 : BluetoothLeService : Normal execution - on charger
+08:59:28:048 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+08:59:28:057 : BluetoothLeService : Normal execution - on charger
+08:59:28:106 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+08:59:28:114 : BluetoothLeService : Normal execution - on charger
+08:59:29:047 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+08:59:29:054 : BluetoothLeService : Normal execution - on charger
+08:59:30:047 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+08:59:30:055 : BluetoothLeService : Normal execution - on charger
+08:59:30:103 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+08:59:30:108 : BluetoothLeService : Normal execution - on charger
+08:59:30:412 : BluetoothLeService : Device UUID: 05e01523-1212-efde-1523-785feabcd123
+08:59:31:040 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+08:59:31:045 : BluetoothLeService : Normal execution - on charger
+08:59:31:100 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+08:59:31:108 : BluetoothLeService : Normal execution - on charger
+08:59:31:637 : BluetoothLeService : Device UUID: 05e01523-1212-efde-1523-785feabcd123
+08:59:32:099 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+08:59:32:104 : BluetoothLeService : Normal execution - on charger
+08:59:33:039 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+08:59:33:046 : BluetoothLeService : Normal execution - on charger
+08:59:33:099 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+08:59:33:106 : BluetoothLeService : Normal execution - on charger
+08:59:33:164 : BluetoothLeService : Device UUID: 05e01523-1212-efde-1523-785feabcd123
+08:59:33:465 : BluetoothLeService : Device UUID: 05e01523-1212-efde-1523-785feabcd123
+08:59:33:907 : BluetoothLeService : Trying to create a new connection.
+08:59:33:935 : BluetoothLeService : Connected to GATT server.
+08:59:33:941 : BluetoothLeService : Attempting to start service discovery:
+08:59:33:948 : BluetoothLeService : Connection state = 2 
+08:59:33:953 : BleReceiver : Connection state changed: 2
+08:59:33:958 : BluetoothLeService : Connected to GATT server.
+08:59:33:962 : BluetoothLeService : Attempting to start service discovery:
+08:59:33:969 : BluetoothLeService : Connection state = 2 
+08:59:33:973 : BleReceiver : Connection state changed: 2
+08:59:40:924 : BluetoothLeService : Trying to use an existing mBluetoothGatt for connection.
+08:59:45:816 : BluetoothLeService : Trying to use an existing mBluetoothGatt for connection.
+08:59:54:011 : BluetoothLeService : reStartScanning: Enter
+08:59:54:024 : BluetoothLeService : reStartScanning: Adapter missing, re-initializing
+08:59:54:035 : BluetoothLeService : Initializing
+08:59:54:043 : BleReceiver : Connection state changed: 0
+08:59:54:053 : BluetoothLeService : init thread: Disable BT adapter
+08:59:54:121 : BluetoothLeService : init thread: BT adapter disabled, re-enable
+08:59:56:140 : BluetoothLeService : Wait for BT adapter to enable...
+08:59:56:655 : BluetoothLeService : Wait for BT adapter to enable...
+08:59:59:209 : BluetoothLeService : reStartScanning: Enter
+08:59:59:229 : BluetoothLeService : reStartScanning: Adapter missing, re-initializing
+08:59:59:234 : BluetoothLeService : Initializing
+08:59:59:251 : BluetoothLeService : init thread: Disable BT adapter
+08:59:59:273 : BluetoothLeService :  State: 13 scanMode: 20
+08:59:59:300 : BluetoothLeService : init thread: BT adapter disabled, re-enable
+09:00:01:320 : BluetoothLeService : Wait for BT adapter to enable...
+09:00:01:836 : BluetoothLeService : Wait for BT adapter to enable...
+09:00:04:374 : BluetoothLeService : reStartScanning: Enter
+09:00:04:405 : BluetoothLeService : reStartScanning: Adapter missing, re-initializing
+09:00:04:410 : BluetoothLeService : Initializing
+09:00:04:425 : BluetoothLeService : init thread: Disable BT adapter
+09:00:04:430 : BleReceiver : Connection state changed: 0
+09:00:04:436 : BleReceiver : Connection state changed: 0
+09:00:04:444 : BluetoothLeService :  State: 13 scanMode: 20
+09:00:04:460 : BluetoothLeService : init thread: BT adapter disabled, re-enable
+09:00:04:465 : BluetoothLeService : Device not found.  Unable to connect.
+09:00:04:470 : BluetoothLeService : reStartScanning: Enter
+09:00:04:521 : BluetoothLeService : init thread: BT adapter disabled, re-enable
+09:00:06:478 : BluetoothLeService : Wait for BT adapter to enable...
+09:00:06:531 : BluetoothLeService : Wait for BT adapter to enable...
+09:00:06:988 : BluetoothLeService : Wait for BT adapter to enable...
+09:00:07:040 : BluetoothLeService : Wait for BT adapter to enable...
+09:00:09:560 : BluetoothLeService : reConnectDevice called.
+09:00:09:565 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:570 : BluetoothLeService : onScanFailed, error code 1
+09:00:09:619 : BluetoothLeService : reConnectDevice called.
+09:00:09:627 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:632 : BluetoothLeService : reConnectDevice called.
+09:00:09:639 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:650 : BluetoothLeService : reConnectDevice called.
+09:00:09:656 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:661 : BluetoothLeService : reConnectDevice called.
+09:00:09:664 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:709 : BluetoothLeService : reConnectDevice called.
+09:00:09:715 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:732 : BluetoothLeService : reConnectDevice called.
+09:00:09:746 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:751 : BluetoothLeService : reConnectDevice called.
+09:00:09:757 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:765 : BluetoothLeService : reConnectDevice called.
+09:00:09:769 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:777 : BluetoothLeService : reConnectDevice called.
+09:00:09:781 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:789 : BluetoothLeService : Device UUID: 05e01523-1212-efde-1523-785feabcd123
+09:00:09:793 : BluetoothLeService : reConnectDevice called.
+09:00:09:797 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:820 : BluetoothLeService : reConnectDevice called.
+09:00:09:824 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:832 : BluetoothLeService : reConnectDevice called.
+09:00:09:836 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:853 : BluetoothLeService : reConnectDevice called.
+09:00:09:857 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:878 : BluetoothLeService : reConnectDevice called.
+09:00:09:883 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:895 : BluetoothLeService : reConnectDevice called.
+09:00:09:899 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:904 : BluetoothLeService : reConnectDevice called.
+09:00:09:908 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:938 : BluetoothLeService : reConnectDevice called.
+09:00:09:942 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:947 : BluetoothLeService : reConnectDevice called.
+09:00:09:952 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:09:986 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+09:00:09:989 : BluetoothLeService : Normal execution - on charger
+09:00:10:002 : BluetoothLeService : reConnectDevice called.
+09:00:10:006 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:10:011 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+09:00:10:020 : BluetoothLeService : Normal execution - on charger
+09:00:10:025 : BluetoothLeService : reConnectDevice called.
+09:00:10:029 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:10:037 : BluetoothLeService : reConnectDevice called.
+09:00:10:042 : BluetoothLeService : Trying to connect to the wrong device. Look for another...
+09:00:10:046 : BluetoothLeService : Device UUID: 5730cd00-dc2a-11e3-aa37-0002a5d5c51b
+09:00:10:050 : BluetoothLeService : Normal execution - on charger
+09:00:10:054 : BluetoothLeService : reConnectDevice called.
+09:00:10:060 : BluetoothLeService : connect called
+09:00:10:077 : BluetoothLeService : Trying to create a new connection.
+09:00:10:093 : BluetoothLeService : Connected to GATT server.
+09:00:10:098 : BluetoothLeService : Attempting to start service discovery:
+09:00:10:103 : BluetoothLeService : Connection state = 2 
+09:00:10:107 : BleReceiver : Connection state changed: 2
+09:00:10:113 : BluetoothLeService : Connected to GATT server.
+09:00:10:117 : BluetoothLeService : Attempting to start service discovery:
+09:00:10:121 : BluetoothLeService : Connection state = 2 
+09:00:10:124 : BleReceiver : Connection state changed: 2
+09:00:46:194 : BluetoothLeService : Disconnected from GATT server. Retry = 1
+09:00:46:218 : BluetoothLeService : connect called
+09:00:46:223 : BluetoothLeService : Trying to use an existing mBluetoothGatt for connection.
+09:00:46:233 : BluetoothLeService : Connection state = 0 
+09:00:46:243 : BleReceiver : Connection state changed: 0
+09:00:48:399 : BluetoothLeService : Connected to GATT server.
+09:00:48:406 : BluetoothLeService : Attempting to start service discovery:
+09:00:48:417 : BluetoothLeService : Connection state = 2 
+09:00:48:422 : BleReceiver : Connection state changed: 2
+09:00:49:026 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e1-2adca0d3208e
+09:00:49:036 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e2-2adca0d3208e
+09:00:49:044 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e3-2adca0d3208e
+09:00:49:053 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e4-2adca0d3208e
+09:00:49:061 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e5-2adca0d3208e
+09:00:49:069 : BluetoothLeService : Characteristic UUID: ab1525f5-b2a0-5b9e-e3e6-2adca0d3208e
+09:00:49:143 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e1-2adca0d3208e
+09:00:49:237 : BluetoothLeService : Characteristic notification/indication received: 0x4f 
+09:00:49:243 : BluetoothLeService : SENSOR ALARM STATE REPORT: State = false
+09:00:49:251 : BluetoothLeService : Write to characteristic queue.
+09:00:49:257 : BleReceiver : Alarm received: false
+09:00:49:285 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e2-2adca0d3208e
+09:00:49:326 : BluetoothLeService : Characteristic notification/indication received: 0x6a 
+09:00:49:332 : BleReceiver : Charger Connection state: true
+09:00:49:369 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e3-2adca0d3208e
+09:00:49:465 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:00:49:476 : BluetoothLeService : Last update: 91037
+09:00:49:483 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:00:49:494 : BleReceiver : Battery Level: 210
+09:00:49:505 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e4-2adca0d3208e
+09:00:49:555 : BluetoothLeService : Characteristic notification/indication received: 0x0 
+09:00:49:562 : BleReceiver : Error code: 0x0
+09:00:49:594 : BluetoothLeService : descriptor Write success ab1525f5-b2a0-5b9e-e3e5-2adca0d3208e
+09:00:49:684 : BluetoothLeService : Characteristic Write success
+09:00:53:377 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:00:53:384 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:00:53:392 : BleReceiver : Battery Level: 210
+09:00:58:372 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:00:58:379 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:00:58:386 : BleReceiver : Battery Level: 210
+09:01:03:412 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+09:01:03:420 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+09:01:03:426 : BleReceiver : Battery Level: 209
+09:01:08:497 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:01:08:505 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:01:08:511 : BleReceiver : Battery Level: 210
+09:01:13:447 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+09:01:13:454 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+09:01:13:461 : BleReceiver : Battery Level: 209
+09:01:18:419 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+09:01:18:436 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+09:01:18:446 : BleReceiver : Battery Level: 209
+09:01:23:389 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:01:23:394 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:01:23:398 : BleReceiver : Battery Level: 210
+09:01:28:432 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:01:28:440 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:01:28:446 : BleReceiver : Battery Level: 210
+09:01:33:472 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+09:01:33:480 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+09:01:33:486 : BleReceiver : Battery Level: 209
+09:01:38:467 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:01:38:475 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:01:38:482 : BleReceiver : Battery Level: 210
+09:01:43:372 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:01:43:380 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:01:43:386 : BleReceiver : Battery Level: 210
+09:01:48:412 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:01:48:425 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:01:48:433 : BleReceiver : Battery Level: 210
+09:01:53:407 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:01:53:415 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:01:53:423 : BleReceiver : Battery Level: 210
+09:01:58:402 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:01:58:409 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:01:58:416 : BleReceiver : Battery Level: 210
+09:02:03:397 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:02:03:406 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:02:03:412 : BleReceiver : Battery Level: 210
+09:02:08:392 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:02:08:399 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:02:08:406 : BleReceiver : Battery Level: 210
+09:02:13:432 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:02:13:439 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:02:13:446 : BleReceiver : Battery Level: 210
+09:02:18:382 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:02:18:390 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:02:18:397 : BleReceiver : Battery Level: 210
+09:02:23:378 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:02:23:385 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:02:23:392 : BleReceiver : Battery Level: 210
+09:02:28:462 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:02:28:469 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:02:28:476 : BleReceiver : Battery Level: 210
+09:02:33:412 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:02:33:419 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:02:33:426 : BleReceiver : Battery Level: 210
+09:02:38:407 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+09:02:38:415 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+09:02:38:422 : BleReceiver : Battery Level: 209
+09:02:43:402 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:02:43:409 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:02:43:416 : BleReceiver : Battery Level: 210
+09:02:48:397 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:02:48:404 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:02:48:412 : BleReceiver : Battery Level: 210
+09:02:49:252 : BluetoothLeService : Characteristic notification/indication received: 0x4f 
+09:02:49:263 : BluetoothLeService : SENSOR ALARM STATE REPORT: State = false
+09:02:49:270 : BleReceiver : Alarm received: false
+09:02:53:392 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:02:53:399 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:02:53:406 : BleReceiver : Battery Level: 210
+09:02:58:387 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:02:58:395 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:02:58:401 : BleReceiver : Battery Level: 210
+09:03:03:382 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:03:03:389 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:03:03:396 : BleReceiver : Battery Level: 210
+09:03:08:377 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:03:08:385 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:03:08:392 : BleReceiver : Battery Level: 210
+09:03:13:417 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:03:13:425 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:03:13:433 : BleReceiver : Battery Level: 210
+09:03:18:412 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:03:18:419 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:03:18:426 : BleReceiver : Battery Level: 210
+09:03:23:497 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:03:23:510 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:03:23:519 : BleReceiver : Battery Level: 210
+09:03:28:402 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:03:28:410 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:03:28:418 : BleReceiver : Battery Level: 210
+09:03:33:397 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:03:33:405 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:03:33:414 : BleReceiver : Battery Level: 210
+09:03:38:392 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:03:38:400 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:03:38:407 : BleReceiver : Battery Level: 210
+09:03:43:387 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:03:43:394 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:03:43:401 : BleReceiver : Battery Level: 210
+09:03:48:382 : BluetoothLeService : Characteristic notification/indication received: 0xd2 
+09:03:48:390 : BluetoothLeService : BATTERY_LEVEL 210 checksum 4
+09:03:48:397 : BleReceiver : Battery Level: 210
+09:03:53:420 : BluetoothLeService : Characteristic notification/indication received: 0xd1 
+09:03:53:426 : BluetoothLeService : BATTERY_LEVEL 209 checksum 3
+09:03:53:432 : BleReceiver : Battery Level: 209
