@@ -45,8 +45,8 @@ textbox = Text(master,height=25,width=35)
 textbox.grid(row=5,columnspan=3)
 textbox.config(background=bgck,foreground='white')
 
-imgFile = PhotoImage(file='test.png')
-imgLabel = Label(master,image=imgFile)
+#imgFile = PhotoImage(file='test.png')
+imgLabel = Label(master)#,image=imgFile)
 imgLabel.grid(row=0,rowspan=3,columnspan=2,column=2,pady=5)
 
 
