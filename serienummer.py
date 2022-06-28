@@ -63,6 +63,8 @@ allTheLabels = []
 
 def save_lines(_event=None):
     lines = str('%s'%(e1.get()))
+    global allTheLabels
+    allTheLabels = []
     if lines !='':
         sn = int(lines)
         for i in range(20):
@@ -125,7 +127,7 @@ saveFileBtn = Button(master,text='Generate',command=save_lines)
 saveFileBtn.grid(row=0,column=3,sticky=E,pady=5)
 saveFileBtn.config(background=bgck,foreground='white')
 
-master.bind('<Return>', save_entries)
+master.bind('<Return>', save_lines)
 master.bind('<Control-s>', save_lines)
 master.bind('<Escape>',quitty_mcquitface)
 save_entries()
