@@ -42,7 +42,7 @@ def getTimeDiffs(filename,shouldPlot):
                     times.append(splitlines[0])
                     current_time =calendar.timegm(date.utctimetuple())
                     if(count > 0):
-                        timediffs.append((abs((current_time-last_time))))
+                        timediffs.append((abs((current_time-last_time)))/60)
                     last_time = current_time
                     count += 1
                 except ValueError:
@@ -51,7 +51,7 @@ def getTimeDiffs(filename,shouldPlot):
                 line = file.readline()
 
             if(count > 0):
-                print('Max. time difference [min]:\t',max(timediffs)/60,' @ ',timediffs.index(max(timediffs)))
+                print('Max. time difference [min]:\t',max(timediffs),' @ ',timediffs.index(max(timediffs)))
                 print('Before:\t\t\t\t',times[timediffs.index(max(timediffs))])
                 print('After:\t\t\t\t',times[timediffs.index(max(timediffs))+1])
                 #print('Plotting time differences:\t', shouldPlot)
@@ -62,7 +62,7 @@ def getTimeDiffs(filename,shouldPlot):
                     pl.ylabel('Time difference [min]')
                     pl.title(filename)
                     pl.xlim(0,count)
-                    pl.ylim(0,30)
+                    pl.ylim(0,2)
                     pl.show()
     except FileNotFoundError:
         print('File not found')
