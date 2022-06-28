@@ -5,12 +5,12 @@ from PIL import Image, ImageDraw, ImageFont, ImageTk
 def save_2_file(event):
     print('')
 
-fnt = ImageFont.truetype(font='C:/Windows/Fonts/times.ttf',size=30)
+fnt = ImageFont.truetype(font='C:/Windows/Fonts/times.ttf',size=25)
 
 master = Tk()
 master.title('SMD LABELER 1000')
 master.configure(background='black')
-#master.geometry('256x512')
+master.geometry('375x615')
 
 
 
@@ -42,11 +42,10 @@ e3.grid(row=2, column=1,sticky=W)
 
 
 textbox = Text(master,height=25,width=35)
-textbox.grid(row=5,columnspan=3)
+textbox.grid(row=5,columnspan=4)
 textbox.config(background=bgck,foreground='white')
 
-#imgFile = PhotoImage(file='test.png')
-imgLabel = Label(master)#,image=imgFile)
+imgLabel = Label(master)
 imgLabel.grid(row=0,rowspan=3,columnspan=2,column=2,pady=5)
 
 
@@ -64,9 +63,9 @@ def display_preview():
     w, h = d.textsize(lines,font=fnt)
     d.text((W/2-w/2,H/2-h/2),lines,font=fnt,fill=(0,0,0,255),align='center')
     d.line([(0,0),(0,H-1),(W-1,H-1),(W-1,1),(2,0)],fill=(0,0,0),width=3)
-    imageFile.save('test.png')
+    imageFile.save('preview.png')
     global imgtk
-    imgtk = ImageTk.PhotoImage(Image.open('test.png'))
+    imgtk = ImageTk.PhotoImage(Image.open('preview.png'))
     imgLabel.config(image=imgtk)
     #imgLabel.after(500,display_preview)
 
@@ -107,22 +106,28 @@ def generate_print(_event=None):
         else:
             print('Enough labels for you, young man!')
     greatimg.save('allTheLabels.png')
-    #greatimg.show()
+    greatimg.show()
 
 cancelBtn = Button(master,text='QUIT',command=master.quit)
-cancelBtn.grid(row=4,column=0,sticky=W,pady=5)
+cancelBtn.grid(row=6,column=0,columnspan=5,pady=5)
 cancelBtn.config(background=bgck,foreground='white')
 
-saveBtn = Button(master,text='PREVIEW LABEL',command=save_entries)
-saveBtn.grid(row=4,column=1,sticky=W,pady=5)
+saveBtn = Button(master,text='PREVIEW',command=save_entries)
+saveBtn.grid(row=4,column=0,sticky=W,pady=5)
 saveBtn.config(background=bgck,foreground='white')
 
-saveFileBtn = Button(master,text='Append to A4',command=save_lines)
-saveFileBtn.grid(row=4,column=2,sticky=E,pady=5)
+saveLinesBtn = Button(master,text='ADD LABEL',command=save_lines)
+saveLinesBtn.grid(row=4,column=1,sticky=E,pady=5)
+saveLinesBtn.config(background=bgck,foreground='white')
+
+
+saveFileBtn = Button(master,text='GENERATE PRINT',command=generate_print)
+saveFileBtn.grid(row=4,column=3,pady=5)
 saveFileBtn.config(background=bgck,foreground='white')
 
 master.bind('<Return>', save_entries)
 master.bind('<Control-s>', save_lines)
+master.bind('<Control-p>', generate_print)
 save_entries()
 lines = 'PREVIEW'
 display_preview()

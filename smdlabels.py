@@ -14,7 +14,7 @@ fnt = ImageFont.truetype(font='C:/Windows/Fonts/times.ttf',size=30)
 
 labels = ['100nF\n0402','10nF\n0402','100uF\n0805','100nF\n0402','10nF\n0402','100uF\n0805','100nF\n0402','10nF\n0402','100uF\n0805','100nF\n0402','10nF\n0402','100uF\n0805','100nF\n0402','10nF\n0402','100uF\n0805','100nF\n0402','10nF\n0402','100uF\n0805','100nF\n0402','10nF\n0402','100uF\n0805','100nF\n0402','10nF\n0402','100uF\n0805','100nF\n0402','10nF\n0402','100uF\n0805','100nF\n0402','10nF\n0402','100uF\n0805','100nF\n0402','10nF\n0402','100uF\n0805','100nF\n0402','10nF\n0402','100uF\n0805','100nF\n0402','10nF\n0402','100uF\n0805','100nF\n0402','10nF\n0402','100uF\n0805','100nF\n0402','10nF\n0402','100uF\n0805','100nF\n0402','10nF\n0402','100uF\n0805','100nF\n0402','10nF\n0402','100uF\n0805','100nF\n0402','10nF\n0402','100uF\n0805',]
 
-greatimg = Image.new('RGBA',(W*19,H*21),color = (255,255,255,0))
+greatimg = Image.new('RGBA',(W*18,H*20),color = (255,255,255,0))
 """ textc = 0
 for x in range(0,19):
     for y in range(0,21):
@@ -33,8 +33,8 @@ for x in range(0,19):
 x = 0
 y = 0
 for label in labels:
-    if x < 20:
-        if y < 22:
+    if x < 19:
+        if y < 21:
             img = Image.new('RGBA',(W,H),color = (255,255,255,0))
             d = ImageDraw.Draw(img)
             w, h = d.textsize(label,font=fnt)
